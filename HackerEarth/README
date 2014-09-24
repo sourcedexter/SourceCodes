@@ -1,0 +1,9 @@
+This Repository contains programs, which are the solutions to some of the problems on www.hackerearth.com . 
+
+Each problem is in a seperate folder, and each folder has 2 files. One is the program file and the other is the README file.
+
+The README has the link to the problem on HackerEarth website and the percentage result of the problem. Not all the programs have 100% result.
+
+pull requests for codes which are modified to give 100% result are welcome.
+
+
