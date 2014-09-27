@@ -1,0 +1,28 @@
+these are the server and client programs used for socket programming.
+
+usage of program:
+
+//running server.c
+
+# cc prog5ser.c 
+# ./a.out 9036 
+SERVER waiting for the CLIENT.... 
+Transfer Completed 
+
+
+//running client.c
+
+# cc prog5cli.c 
+# ./a.out 127.0.0.1 ex.txt 9036 
+client online 
+
+This is the content 
+of the file.
+
+
+here the file requested by the cient is "ex.txt" and its contents are "This is the content of the file."
+
+here this program works when both programs are run simultaneously on the same syste. To run of different system replace the IP address "127.0.0.1" to the ip address of the system on which the server is running.
+
+The detailed description of the program can be foundon :
+  http://seethesource.wordpress.com/2014/09/27/socket-programming-using-tcpip/
