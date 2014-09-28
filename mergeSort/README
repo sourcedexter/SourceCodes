@@ -1,0 +1,4 @@
+this is an implementation of the merge sort. 
+The first line of input it takes is, no. of elements to be sorted. the second line is the elements itself.
+
+complie are run the c++ file merge.cpp
